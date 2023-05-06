@@ -1,0 +1,231 @@
+
+body {
+    background-color: #050608;
+    line-height: 100%;
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Poppins', sans-serif;
+    letter-spacing: 0px;
+    word-spacing: 0px;
+    text-transform: inherit;
+}
+body {
+    background-color: #fff;
+}
+.text{
+    display: block;
+}
+.text h2{
+    color:white;
+    position: relative;
+    font-weight: 700;
+    font-size: 40px;
+    padding-left: 20px;
+   
+}
+.text-1{
+    color:white;
+    font-weight: 1000;
+    position: relative;
+    font-size: 80px;
+    top:50px;
+    padding: 20px;
+
+}
+.text{
+    background-color: #050608;
+    width: 100%;
+    position: absolute;
+    height:3000px;
+    margin-top: -10px;
+    
+}
+.text-2{
+    position: relative;
+    color: #8c2e77;
+    top:100px;
+    font-size: 100px;
+    font-weight: 1000;
+    line-height: 2rem;
+
+}
+.text-3{
+    position: relative;
+    color: white;
+    font-weight: 1000;
+    font-size: 80px;
+    margin-top: 20px;
+    padding: 20px;
+    line-height: 2rem;
+}
+.text-4{
+    position: relative;
+    color: #8c2e77;
+    font-weight: 1000;
+    font-size: 80px;
+    line-height: 2rem;
+    padding-left: 20px;
+
+}
+.text-para{
+    position: absolute;
+    width: 50%;
+    padding-left: 20px;
+}
+.text-para span{
+    color:white;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 2rem;
+}
+.text-para1{
+    margin-top: 120px;
+    margin-left: 700px;
+    position: absolute;
+    width: 47%;
+    padding-left: 20px;
+}
+.text-para1 span{
+    color:white;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 2rem;
+}
+.text-parah{
+    position: absolute;
+    padding-left: 20px;
+    margin-top: 650px;
+
+}
+.text-parah span{
+    font-weight: 1000;
+    font-size: 90px;
+    margin-top: 100px;
+    color: white;
+}
+
+.text-parah1{
+    position: absolute;
+    padding-left: 700px;
+    margin-top: 740px;
+
+}
+.text-parah1 span{
+    font-weight: 1000;
+    font-size: 90px;
+    margin-top: 100px;
+    color: white;
+}
+@media only screen and (max-width:700px) {
+
+    .text h2{
+    color:white;
+    display: block;
+    font-weight: 700;
+    font-size: 40px;
+    padding-left: 20px;
+    line-height: 2.5rem;
+   
+}
+.text-1{
+    color:white;
+    font-weight: 1000;
+    position: relative;
+    font-size: 50px;
+    display: block;
+    top:0px;
+    padding: 20px;
+    line-height: 3rem;
+
+}
+.text-2{
+    position: relative;
+    color: #8c2e77;
+    top: 0;
+    font-size: 45px;
+    font-weight:1000;
+    line-height: 4rem;
+    display: block;
+    left: 20px ;
+
+}
+.text-3{
+    position: relative;
+    color: white;
+    display: block;
+    font-weight: 1000;
+    font-size: 50px;
+    bottom: 150px;
+    line-height: 2rem;
+}
+.text-4{
+    position: relative;
+    color: #8c2e77;
+    font-weight: 1000;
+    font-size: 50px;
+    line-height: 3rem;
+    display: block;
+    bottom: 140px;
+
+}
+.text-para{
+    position: absolute;
+    width: 90%;
+    padding-left: 20px;
+}
+.text-para span{
+    position: relative;
+    display: block;
+    color:white;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 2rem;
+    bottom: 140px;
+}
+.text-para1{
+    margin-top: 120px;
+    margin-left: 0px;
+    position: absolute;
+    width: 90%;
+}
+.text-para1 span
+{
+    position: relative;
+    color:white;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 2rem;
+    bottom: 20px;
+}
+.text-parah{
+    position: absolute;
+    display: block;
+    line-height: 2rem;
+    margin-top: 650px;
+
+}
+.text-parah span{
+    position: relative;
+    font-weight: 1000;
+    font-size: 30px;
+    top: 20px;
+    color: white;
+}
+.text-parah1{
+    display: block;
+    position: absolute;
+
+}
+.text-parah1 span{
+    display: block;
+    position: relative;
+    font-weight: 1000;
+    font-size: 30px;
+    margin-top: 100px;
+    left: -310%;
+    line-height: 2rem;
+    color: white;
+    bottom: 130px;
+}
+}

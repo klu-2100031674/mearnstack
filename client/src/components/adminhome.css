@@ -1,0 +1,52 @@
+li{
+    cursor: pointer;
+    line-height: 2rem;
+    font-size: 30px;
+    display: inline;
+    margin-left: 20px;
+    border: black;
+    padding: 10px;
+    color: white;
+    position: relative;
+    top: 15px;
+
+}
+
+
+.main_nav{
+    border-style: solid;
+    height: 100px;
+    display: block;
+    justify-content: center;
+    background-color: black;
+}
+
+.user_change{
+    position: relative;
+    width: 1000;
+   padding: 40px;
+    left: 200px;
+    top: 100px;
+
+}
+
+td{
+    padding: 10px;
+    padding-left: 30px;
+}
+
+th{
+    padding: 10px;
+}
+
+.welcome_change{
+    position: absolute;
+    left: 20%;
+    top: 20%;
+
+}
+.artist_change{
+    position: relative;
+    margin-top: 100px;
+    
+}

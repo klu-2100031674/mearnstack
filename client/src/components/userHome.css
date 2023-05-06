@@ -1,0 +1,107 @@
+  .main_pro{
+    height: 1500px;
+    width: 100%;
+    background-color:black;
+    position:absolute;
+
+  }
+  .Hello_user{
+    position: relative;
+    left: 50px;
+    top: 30px;
+    width: 350px;
+    font-weight: 1000;
+    font-size: xx-large;
+    color: white;
+  }
+  
+  
+  .Hi_there{
+    position: relative;
+    left: 50px;
+    width: 450px;
+    font-weight: 800;
+    font-size:x-large;
+    color: white;
+    line-height: 2rem;
+  }
+  
+  .bottom{
+    margin-top: 8%;
+    height: 500px;
+    width: 800px;
+    position: relative;
+    left: 625px;
+    top: -100px;
+    border-radius: 10px;
+    background-color: white;
+  }
+  
+  .image_bottom{
+    position: relative;
+    left: 1050px;
+    border-radius: 100px;
+    border-style: solid;
+    width: 150px;
+    height: 150px;
+  }
+  
+  
+  .Foot_pro{
+    width: 100%;
+    height: 100px;
+    background-color: black;
+    justify-content: center;
+    display: flex;
+    color: white;
+    font-weight: 800;
+    font-size:x-large;
+    position: relative;
+  }
+  .photo{
+    position: absolute;
+    left: 70%;
+    top: 60px;
+    width: 100px;
+    height: 500px;
+  }
+  .logout{
+    position: relative;
+    left: 275px;
+    top: -225px;
+    
+  }
+  .edit{
+    position: relative;
+    top: -225px;
+    left: 50px;
+  }
+  .proimage{
+    position: relative;
+    left: 500px;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+  }
+  .imageinput{
+    position: relative;
+    left: 70%;
+    top: -250px;
+  }
+  .upimage{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+  }
+  .submit{
+    position: relative;
+    top: -130px;
+    left: 40px;
+  }
+  .pro{
+    position: absolute;
+    left: 500px;
+    width: 200px;
+    height: 200px;
+  }

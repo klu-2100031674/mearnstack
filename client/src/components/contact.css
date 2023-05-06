@@ -1,0 +1,85 @@
+.feed{
+    width: 100%;
+    height: 630px;
+    margin-top: -40px;
+    background-color: black;
+}
+.say-hello{
+    width: 700px;
+    font-size:5pc;
+    color: white;
+    position: relative;
+    top: 170px;
+    left: 100px;
+    font-weight: 600;
+}
+.ge{
+    font-size: 40px;
+}
+.main
+{
+    height: 500px;
+    width: 500px;
+    position: relative;
+    top: -250px;
+    left: 900px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.User_name{
+    border-style: solid;
+    border-color:yellow;
+    width: 250px;
+    height: 50px;
+    border-radius: 10px;
+    padding-left: 10px;
+    font-size: larger;
+    position: relative;
+    top: 230px;
+    left: 95px;
+    color: rgb(24, 22, 22);
+}
+
+.Email{
+    border-style: solid;
+    border-color:yellow;
+    width: 250px;
+    height: 50px;
+    border-radius: 10px;
+    padding-left: 10px;
+    font-size: larger;
+    position: relative;
+    top: 230px;
+    left:130px;
+    color: rgb(24, 22, 22);
+}
+
+.Notes{
+    border-style: solid;
+    border-color:yellow;
+    width: 550px;
+    height: 150px;
+    border-radius: 10px;
+    position: absolute;
+    top: 340px;
+    left: -20px;
+    font-size:0.8cm;
+    color: rgb(24, 22, 22);
+}
+
+.button{
+    position: relative;
+    top: 530px;
+    left: -410px;
+    color:black;
+    border-radius: 7px;
+    cursor: pointer;
+    font-size:0.7cm;
+    padding: 100px;
+    padding-left: 50px;
+    padding-top: 25px;
+    padding-bottom: 20px;
+    padding-right: 55px;
+}
