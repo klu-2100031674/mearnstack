@@ -10,6 +10,7 @@ app.use(cors());
 const bcrypt = require("bcryptjs");
 app.set("view engine", "ejs");
 app.use(express.urlencoded({ extended: false }));
+const PORT = process.env.PORT||8081
 const { MongoClient } = require('mongodb');
 
 const jwt = require("jsonwebtoken");
