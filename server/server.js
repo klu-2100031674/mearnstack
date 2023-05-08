@@ -183,7 +183,7 @@ app.post("/forgot-password", async (req, res) => {
     const token = jwt.sign({ email: oldUser.email, id: oldUser._id }, secret, {
       expiresIn: "100m",
     });
-    const link = `https://entertainmentklu.netlify.app/reset-password/${oldUser._id}/${token}`;
+    const link = `https://entertainment-84mr.onrender.com/reset-password/${oldUser._id}/${token}`;
     var transporter = nodemailer.createTransport({
       service: "gmail",
       auth: {
